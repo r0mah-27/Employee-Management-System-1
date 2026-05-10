@@ -60,7 +60,7 @@ Import the `database.sql` file into MySQL before running the project.
 ---
 
 ## Group Members
-- Your Name — Your ID — Your Section
+- Umme Roman Ali — 023-25-0115— BSCS-II-E
 
 ---
 
