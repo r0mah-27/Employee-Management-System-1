@@ -65,7 +65,7 @@ Import the `database.sql` file into MySQL before running the project.
 ---
 
 ## GitHub Repository
-(Add GitHub repository link here)
+https://github.com/r0mah-27/Employee-Management-System-1
 
 ---
 
