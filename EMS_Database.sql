@@ -83,7 +83,7 @@ CREATE TABLE leaves (
 
 -- ── SAMPLE DATA ───────────────────────────────────────────────
 INSERT INTO users (username, password, role) VALUES
-('Roman', 'admin123', 'admin'),
+('admin', 'admin123', 'admin'),
 ('hr_user', 'hr123', 'hr');
 
 INSERT INTO departments (dept_name, dept_head) VALUES
