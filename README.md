@@ -70,5 +70,5 @@ https://github.com/r0mah-27/Employee-Management-System-1
 ---
 
 ## Video Demo
-(Add YouTube video link here)
+https://youtu.be/w8KHX7jV6e8
 
